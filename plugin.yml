@@ -1,0 +1,24 @@
+name: Cringe-MP
+api: 3.0.0
+version: 1.0
+main: CF\CMP\Main
+author: Fqstalph & Cheddar
+commands:
+ fareshi:
+  description: "Wok"
+ muro:
+  description: "1727"
+ sfonnato:
+  description: "1727 pt.2"
+ naboli:
+  description: "Napoliii"
+ stupro:
+  description: "Surprise"
+ incarcerat:
+  description: "Fratm"
+ orolog:
+  description: "Bell"
+ ue:
+  description: "Dome"
+ identity:
+  description: "Gennà"
